@@ -8,6 +8,7 @@ trigger:
 
 pool: 
   name: Sebastians-MBP
+
 strategy:
   matrix:
     Python27:
