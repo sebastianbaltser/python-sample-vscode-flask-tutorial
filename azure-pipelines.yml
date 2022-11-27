@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool: 
-  name: Sebastians-MBP
+  name: Sebastianssss-MBP
 
 strategy:
   matrix:
